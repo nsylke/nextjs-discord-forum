@@ -17,7 +17,7 @@ This section provides a quick-start guide.
 -   Clone the repository, by doing `git clone git@github.com:nsylke/nextjs-discord-forum.git`
 -   Install dependencies, by doing `yarn`
 -   Copy the `.env.example` file to `.env` and fill out the missing values.
--   Run the server, by doing `yarn start`
+-   Run the server, by doing `yarn dev`
 
 ## License
 
