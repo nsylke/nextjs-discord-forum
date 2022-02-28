@@ -6,6 +6,12 @@
         "name": "Nicholas Sylke",
         "email": "hello@nsylke.me"
     },
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "prettier --ignore-path .gitignore --write ."
+    },
     "dependencies": {
         "autoprefixer": "^10.4.2",
         "cssnano": "^5.0.17",
